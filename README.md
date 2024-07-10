@@ -8,6 +8,6 @@ Features <br>
 3. Interactive Elements: Provides interactive elements such as a navigation menu and products.
 4. Styling: Styled with CSS for a modern and clean look. <br>
 Technologies Used:<br>
-HTML: Structure of the website.
-CSS: Styling of the website.
-JavaScript: Interactivity of the website.
+HTML,
+CSS,
+JavaScript
