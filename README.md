@@ -7,7 +7,7 @@ Features <br>
 2. Product Listing: Displays a list of musical instruments with details.
 3. Interactive Elements: Provides interactive elements such as a navigation menu and products.
 4. Styling: Styled with CSS for a modern and clean look. <br>
-Technologies Used:<br>
+Technologies Used:
 HTML,
 CSS,
 JavaScript
